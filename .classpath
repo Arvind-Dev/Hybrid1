@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/cucumber-testng-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Software/JAR&apos;s/selenium-server-standalone-3.1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
